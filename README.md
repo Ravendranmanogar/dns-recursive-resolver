@@ -43,33 +43,33 @@ This project demonstrates how a recursive DNS resolver works, replicating real D
 ---
 ## 📘 Documents
 
-    📄 DNS Resolver Project Report (DOCX)
-    📄 DNS Recursive Querying Research Paper (DOCX)
+📄 DNS Resolver Project Report (DOCX)
+📄 DNS Recursive Querying Research Paper (DOCX)
 
 ---
 ## 📊 Output Highlights
 
-    - Average latency without cache: ~150ms
-    - With cache enabled: ~50ms
-    - Cache hit ratio: Up to 85%
+- Average latency without cache: ~150ms
+- With cache enabled: ~50ms
+- Cache hit ratio: Up to 85%
 The project shows how optimized caching drastically improves DNS performance.
 
 ---
 ## 📈 Future Enhancements
 
-    - Machine learning-based query prediction
-    - Real-time monitoring dashboard
-    - DNSSEC validation implementation
-    - Full MySQL backend caching with TTL expiry
+- Machine learning-based query prediction
+ - Real-time monitoring dashboard
+- DNSSEC validation implementation
+- Full MySQL backend caching with TTL expiry
 
 ---
 
 ## 🧠 Author
 
-    Ravendran Manogar
-    B.Tech Final Year Project
+Ravendran Manogar
+B.Tech Final Year Project
 
 ---
 ## 📌 License
 
-    - This project is open for educational and academic use. Attribution appreciated.
+- This project is open for educational and academic use. Attribution appreciated.
