@@ -32,44 +32,40 @@ This project demonstrates how a recursive DNS resolver works, replicating real D
    ```bash
    git clone https://github.com/Ravendrannamogar/dns-recursive-resolver.git
    cd dns-recursive-resolver
-Install dependencies:
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the resolver:
+3. Run the resolver:
+    ```bash
+    python dns_resolver.py
 
-bash
-Copy
-Edit
-python dns_resolver.py
 📘 Documents
-📄 DNS Resolver Project Report (DOCX)
+    📄 DNS Resolver Project Report (DOCX)
 
-📄 DNS Recursive Querying Research Paper (DOCX)
+    📄 DNS Recursive Querying Research Paper (DOCX)
 
 📊 Output Highlights
-Average latency without cache: ~150ms
+    Average latency without cache: ~150ms
 
-With cache enabled: ~50ms
+    With cache enabled: ~50ms
 
-Cache hit ratio: Up to 85%
+    Cache hit ratio: Up to 85%
 
 The project shows how optimized caching drastically improves DNS performance.
 
 📈 Future Enhancements
-Machine learning-based query prediction
+    Machine learning-based query prediction
 
-Real-time monitoring dashboard
+    Real-time monitoring dashboard
 
-DNSSEC validation implementation
+    DNSSEC validation implementation
 
-Full MySQL backend caching with TTL expiry
+    Full MySQL backend caching with TTL expiry
 
 🧠 Author
-Ravendran Manogar
-B.Tech Final Year Project
+    Ravendran Manogar
+    B.Tech Final Year Project
 
 📌 License
-This project is open for educational and academic use. Attribution appreciated.
+    This project is open for educational and academic use. Attribution appreciated.
