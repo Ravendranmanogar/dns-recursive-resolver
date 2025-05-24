@@ -73,3 +73,4 @@ The project shows how optimized caching drastically improves DNS performance.
 ## 📌 License
 
 - This project is open for educational and academic use. Attribution appreciated.
+
