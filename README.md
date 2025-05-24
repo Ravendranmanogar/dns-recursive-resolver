@@ -42,10 +42,10 @@ This project demonstrates how a recursive DNS resolver works, replicating real D
 
 ---
 
-## 📘 Documents
+## 📘  Project Documents
 
-- 📄 DNS Resolver Project Report (DOCX)
-- 📄 DNS Recursive Querying Research Paper (DOCX)
+- [📘 Project Report – DNS Resolver](DNS_Resolver_Project_Report.docx)
+- [📕 Research Paper – Recursive DNS Querying](DNS_Recursive_Query_Paper.docx)
 
 
 ## 📊 Output Highlights
